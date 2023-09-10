@@ -1,6 +1,9 @@
 # kafka-clone
 A simplified Python program that demonstrates some of the core functionalities, such as topic creation, message publishing, and basic consumer simulation. 
 
+Output:
+<img width="467" alt="image" src="https://github.com/vaishnavirbhat26/kafka-clone/assets/112920991/4b0723d8-1476-4791-8845-1f71db6ad381">
+
 
 In this simplified example:
 
